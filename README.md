@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Đoàn Văn PHúc</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">LẬP TRÌNH .NET</h1>
+<h3 align="center">Tên: Đoàn Văn Phúc</h3>
+<h3 align="center">MSSV: DTH235736</h3>
+<h3 align="center">Lớp: DH24TH2</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
