@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 7", "Bai 7\Bai 7.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 8", "Bai 8\Bai 8.csproj", "{A703185D-23E3-4050-9E78-75B1309DFEB6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuoiThucHanh2", "BuoiThucHanh2", "{FA5B3F22-86B6-4AC0-AFCE-F24D4C64FF57}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
