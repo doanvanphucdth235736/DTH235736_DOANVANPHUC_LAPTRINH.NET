@@ -1,0 +1,11 @@
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\bin\Debug\Chương 2 câu 2.exe.config
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\bin\Debug\Chương 2 câu 2.exe
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\bin\Debug\Chương 2 câu 2.pdb
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương 2 câu 2.csproj.AssemblyReference.cache
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương_2_câu_2.Properties.Resources.resources
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương 2 câu 2.csproj.GenerateResource.cache
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương 2 câu 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương 2 câu 2.exe
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương 2 câu 2.pdb
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương 2 câu 2.exe.config
+C:\Users\Acer Predator Helios\source\repos\doanvanphucdth235736\DTH235736_DOANVANPHUC_LAPTRINH.NET\BuoiThucHanh2\Chương 2 câu 2\obj\Debug\Chương_2_câu_2.Form1.resources
