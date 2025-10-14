@@ -41,6 +41,17 @@
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
+            // label1
+            // 
+            label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            label1.Location = new System.Drawing.Point(299, 60);
+            label1.Name = "label1";
+            label1.Size = new System.Drawing.Size(212, 63);
+            label1.TabIndex = 3;
+            label1.Text = "Phép Toán";
+            label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            label1.Click += new System.EventHandler(this.label1_Click);
+            // 
             // btnTong
             // 
             this.btnTong.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -102,16 +113,6 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "a:";
             // 
-            // label1
-            // 
-            label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label1.Location = new System.Drawing.Point(299, 60);
-            label1.Name = "label1";
-            label1.Size = new System.Drawing.Size(212, 63);
-            label1.TabIndex = 3;
-            label1.Text = "Phép Toán";
-            label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // txtKetQua
             // 
             this.txtKetQua.Location = new System.Drawing.Point(374, 325);
@@ -119,6 +120,7 @@
             this.txtKetQua.ReadOnly = true;
             this.txtKetQua.Size = new System.Drawing.Size(137, 22);
             this.txtKetQua.TabIndex = 4;
+            this.txtKetQua.TextChanged += new System.EventHandler(this.txtKetQua_TextChanged);
             // 
             // label4
             // 

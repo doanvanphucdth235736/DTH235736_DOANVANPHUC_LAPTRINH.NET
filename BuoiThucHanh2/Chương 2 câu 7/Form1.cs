@@ -42,5 +42,15 @@ namespace Chương_2_câu_7
                 MessageBox.Show("Vui long nhap so nguyen hop le!");
             }
         }
+
+        private void txtKetQua_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
