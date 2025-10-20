@@ -16,5 +16,54 @@ namespace Chương_2_câu_9
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTich_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(txtA.Text);
+            double b = Convert.ToDouble(txtB.Text);
+            double duongCheo = Math.Sqrt(a * a + b * b);
+            txtKQ.Text = duongCheo.ToString();
+        }
+
+        private void hieubtn_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(txtA.Text);
+            double b = Convert.ToDouble(txtB.Text);
+            double dienTich = a * b;
+            txtKQ.Text = dienTich.ToString();
+        }
+
+        private void txtKetQua_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTong_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(txtA.Text);
+            double b = Convert.ToDouble(txtB.Text);
+            double chuVi = (a + b) * 2;
+            txtKQ.Text = chuVi.ToString();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnThuong_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
